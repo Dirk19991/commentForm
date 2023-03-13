@@ -5,7 +5,7 @@
 }
 
 .comment-box {
-  width: 500px;
+  max-width: 500px;
   margin: 0 auto;
   margin-top: 40px;
 }
@@ -85,7 +85,7 @@
 }
 
 .user-comments {
-  width: 500px;
+  max-width: 500px;
   display: flex;
   flex-direction: column;
   gap: 20px;
